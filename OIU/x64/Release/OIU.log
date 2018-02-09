@@ -1,0 +1,6 @@
+﻿  oiu.cxx
+oiu.obj : error LNK2001: неразрешенный внешний символ ""public: virtual struct QMetaObject const * __cdecl OIU::metaObject(void)const " (?metaObject@OIU@@UEBAPEBUQMetaObject@@XZ)"
+oiu.obj : error LNK2001: неразрешенный внешний символ ""public: virtual void * __cdecl OIU::qt_metacast(char const *)" (?qt_metacast@OIU@@UEAAPEAXPEBD@Z)"
+oiu.obj : error LNK2001: неразрешенный внешний символ ""public: virtual int __cdecl OIU::qt_metacall(enum QMetaObject::Call,int,void * *)" (?qt_metacall@OIU@@UEAAHW4Call@QMetaObject@@HPEAPEAX@Z)"
+oiu.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: static struct QMetaObject const OIU::staticMetaObject" (?staticMetaObject@OIU@@2UQMetaObject@@B) в функции "public: __cdecl OIU::OIU(class QWidget *)" (??0OIU@@QEAA@PEAVQWidget@@@Z)
+G:\DAW\OIU\x64\Release\\OIU.exe : fatal error LNK1120: неразрешенных внешних элементов: 4

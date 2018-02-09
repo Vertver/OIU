@@ -1,0 +1,13 @@
+﻿  Moc'ing oiu.h...
+  Uic'ing oiu.ui...
+  Rcc'ing oiu.qrc...
+RCC : warning : No resources in 'F:\OpenIU\OIU\OIU\oiu.qrc'.
+  
+  moc_oiu.cpp
+  main.cpp
+  newfile.cxx
+  oiu.cxx
+  ui_oiu.cpp
+  Создание кода...
+  qrc_oiu.cpp
+  OIU.vcxproj -> F:\OpenIU\OIU\x64\Debug\OIU.exe
